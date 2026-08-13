@@ -1,14 +1,31 @@
-# SoiréePay - Distribution Officielle Android (.apk)
+# EVENTA - DÃ©pÃ´t Officiel de TÃ©lÃ©chargement des Applications Android
 
-Ce dépôt public héberge les versions officielles finales des applications Android de **SoiréePay** via GitHub Releases.
+Bienvenue sur le dÃ©pÃ´t officiel de distribution des applications Android pour la plateforme **EVENTA**.
 
-## Applications disponibles
-
-1. **SoiréePay Acheteur / Client** (soireepay-acheteur.apk)
-2. **SoiréePay Vendeur** (soireepay-vendeur.apk)
-3. **SoiréePay Contrôleur / Vérification** (soireepay-controleur.apk)
-4. **SoiréePay Administrateur** (soireepay-administrateur.apk)
+> **Slogan** : *Tous vos Ã©vÃ©nements, au mÃªme endroit.*
 
 ---
 
-*Plateforme Officielle Sécurisée SoiréePay.*
+## ğŸ“± Applications Disponibles
+
+1. **`eventa-acheteur.apk`**
+   - Application officielle pour les participants et acheteurs de tickets.
+   - AccÃ¨s aux tickets numÃ©riques, QR Code personnel et gestion des billets pour les amis.
+
+2. **`eventa-vendeur.apk`**
+   - Application de caisse et d'encaissement pour les vendeurs autorisÃ©s.
+   - Vente instantanÃ©e de billets en espÃ¨ces et gÃ©nÃ©ration de QR Codes.
+
+3. **`eventa-controleur.apk`**
+   - Application de contrÃ´le d'accÃ¨s aux Ã©vÃ©nements.
+   - Scan rapide des QR Codes, vÃ©rification anti-fraude et compostage des billets.
+
+4. **`eventa-administrateur.apk`**
+   - Application de gestion globale de la plateforme EVENTA.
+   - Suivi des ventes, gestion des vendeurs et statistiques en temps rÃ©el.
+
+---
+
+## ğŸ”— Liens Utiles
+
+- **DÃ©pÃ´t du Code Source** : [https://github.com/12345as89/EVENTA](https://github.com/12345as89/EVENTA)
